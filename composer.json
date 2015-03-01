@@ -16,7 +16,7 @@
         "levelab/model/core": "~0.1"
     },
     "autoload": {
-        "psr-o": { "Levelab\\Model\\Thematic": "" }
+        "psr-0": { "Levelab\\Model\\Thematic": "" }
     },
     "target-dir": "Levelab/Model/Thematic"
 }
