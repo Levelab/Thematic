@@ -1,0 +1,22 @@
+{
+    "name": "levelab/model/thematic",
+    "type": "library",
+    "description": "Domain of Levelab Thematics",
+    "keywords": ["levelab", "thematics"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonid Repin",
+            "email": "leonid-repin@levelab.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "doctrine/common": "~1.2",
+        "levelab/model/core": "~0.1"
+    },
+    "autoload": {
+        "psr-o": { "Levelab\\Model\\Thematic": "" }
+    },
+    "target-dir": "Levelab/Model/Thematic"
+}
