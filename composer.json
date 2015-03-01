@@ -12,7 +12,6 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "doctrine/collections": "~1.2",
         "levelab/model/core": "~0.1"
     },
     "autoload": {
